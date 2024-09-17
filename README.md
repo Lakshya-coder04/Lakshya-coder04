@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lakshya Birla</h1>
 <h3 align="center">A passionate frontend developer from Canada</h3>
 
-- 🔭 I’m currently working on [Home appraiser Portfolio](https://github.com/Lakshya-coder04/madi-matthews)
 
 - 🌱 I’m currently learning **Next.js**
 
