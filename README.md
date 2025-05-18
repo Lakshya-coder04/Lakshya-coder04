@@ -2,9 +2,7 @@
 <h3 align="center">A passionate frontend developer from Canada</h3>
 
 
-- 🌱 I’m currently learning **Next.js**
-
-- 👨‍💻 All of my projects are available at [https://lakshya-coder04.github.io/website-portofolio/](https://lakshya-coder04.github.io/website-portofolio/)
+- 🌱 I’m currently learning **Next.js, TensorFlow.js**
 
 - 📫 How to reach me **lakshyabirla7cr@gmail.com**
 
