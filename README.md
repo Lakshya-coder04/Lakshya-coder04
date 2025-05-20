@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lakshya Birla</h1>
-<h3 align="center">A passionate frontend developer from Canada</h3>
+<h3 align="center">A passionate frontend developer from India/Canada</h3>
 
 
 - 🌱 I’m currently learning **Next.js, TensorFlow.js**
